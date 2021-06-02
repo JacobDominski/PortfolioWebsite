@@ -4,8 +4,10 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import PortfolioContext from '../../context/context';
+import CurrentResume from '../../resume/Resume.pdf';
 
 const About = () => {
+  console.log(CurrentResume)
   const { about } = useContext(PortfolioContext);
   const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
 
@@ -55,6 +57,7 @@ const About = () => {
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
                       href={resume}
+                      
                     >
                       Resume
                     </a>
