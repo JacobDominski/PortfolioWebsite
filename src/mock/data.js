@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I graduated from the University of Advancing Technology (UAT) in December 2021 with a degree in Computer Science focusing on software development.  During my time at UAT, I was able to increase my knowledge as a programmer and explore other areas of Computer Science.',
   paragraphTwo: "During my free time, I enjoy creating projects on my own and seeing what I build come to life. One of my favorite projects that I made was a console game in C++ that mimicked a Dungeons and Dragons style game called Dungeon Crawler. It is gratifying to see what I build come to life.",
   paragraphThree: "When I'm not programming, I enjoy cooking, going to the gym, and learning more about the Linux environment. Before going to university, I volunteered to teach karate as a first degree black belt which I enjoyed. Additionally, my interest in teaching gave me my first job where I teach programming and computer science to children. ",
-  resume: 'https://drive.google.com/file/d/15yYO1ZtNvmij59crGBlr_alpnZzGOeHZ/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1W0fpCgy7okBh3vwgSfrrQDLn17K7lM7I/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
